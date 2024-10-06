@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Okoyo Vockey
 - 👀 I’m interested in data and books
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on big data companies
+- 💞️ I’m looking to collaborate on big data project
 - 📫 How to reach me vockeyouma@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I like to smile rather than laughing out loud.
