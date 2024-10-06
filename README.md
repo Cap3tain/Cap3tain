@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cap3tain
+- 👋 Hi, I’m Okoyo Vockey
 - 👀 I’m interested in data and books
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on big data companies
